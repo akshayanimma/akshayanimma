@@ -45,6 +45,12 @@
 ![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
 ![SUMO](https://img.shields.io/badge/SUMO-Traffic%20Simulation-2E8B57?style=flat-square)
 
+**Data analysis tools**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
 </div>
 
 ## 🚀 Featured projects
