@@ -6,7 +6,7 @@
 
 <p>
   <strong>Computer Science & Machine Learning student</strong><br/>
-  Exploring data, building models, and turning ideas into useful applications.
+  Exploring data with Python, SQL, Excel and Power BI, building models, and turning ideas into useful applications.
 </p>
 
 <a href="https://github.com/akshayanimma">
@@ -22,7 +22,7 @@
 
 ## 🌈 A little about me
 
-- 📊 Interested in **data analysis, exploratory data analysis, and visual storytelling**
+- 📊 Interested in **data analysis, exploratory data analysis, and visual storytelling** using SQL, Excel and Power BI
 - 🤖 Enjoy building and evaluating **machine learning and deep learning models**
 - 💬 Exploring **NLP, text classification, and computer vision**
 - 🧩 Like turning technical work into practical, interactive applications
